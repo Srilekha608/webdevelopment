@@ -12,3 +12,15 @@ My major specialization is Applied Computer Science
 ## Medium
 
 ###### Small
+
+*Italic*
+
+**Bold**
+
+***Bold Italic***
+
+Bold In**si**de
+
+>This paragraph must be included in block quotes
+
+>>this is a paragraph with nested block quotes
