@@ -30,10 +30,19 @@ block of code 1
 block of code 2
 ```
 
+[github](https://www.github.com)
+
+quick links <https://www.github.com>
+
+~~This is a strike through~~
+
+$approximation i.e
+
+$f(x)=x*2$
 
 -vscode 
-   -save
-   -git add
-   -git commit
-   -git push
+    -save   
+    -git add
+    -git commit
+    -git push
 -code gets reflects in github   
