@@ -7,8 +7,8 @@ I'm pursuing Master's at Northwest Missouri State Universty
 
 My major specialization is Applied Computer Science
 
-#Larger
+# Larger
 
-##Medium
+## Medium
 
-######Small
+###### Small
